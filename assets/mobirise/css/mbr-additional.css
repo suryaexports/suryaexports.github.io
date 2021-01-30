@@ -2455,6 +2455,8 @@ a {
 .cid-smO3OKnDm2 img,
 .cid-smO3OKnDm2 .item-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .cid-smO3OKnDm2 .item:focus,
 .cid-smO3OKnDm2 span:focus {
@@ -2474,18 +2476,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-smO3OKnDm2 .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-smO3OKnDm2 .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-smO3OKnDm2 .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-smO3OKnDm2 .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-smO3OKnDm2 .mbr-section-btn {
