@@ -1,17 +1,17 @@
 ---
-title: "Women Wear"
+title: "Mens Wear T-Shirts"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Wide Variants"
+description : "Wide Colour Range"
 
 
 # Product Short Description
-shortDescription: "All kinds of Ladies wear"
+shortDescription: "Wide Variety of Colours to match"
 
 #product ID
-productID: "5"
+productID: "2"
 
 # type must be "products"
 type: "products"
@@ -19,10 +19,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/suryaexport-women-tops-preview.png"
-  - image: "images/products/suryaexport-women-sleeveless-preview.png"
-  - image: "images/products/suryaexport-plain-white-t-shirt-preview.png"
+  - image: "images/products/suryaexports-tshirt-round-neck-blue-preview.png"
   - image: "images/products/suryaexport-women-red-tshirt-preview.png"
+  - image: "images/products/suryaexport-women-sleeveless-preview.png"
+  - image: "images/products/suryaexport-women-tops-preview.png"
 ---
 
-T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes & Innerwear
+T-shirts, Pants, Pyjama Set, Jackets, Shirt, Shorts, Trouser, Jogging suit, Sportswear, Night wear, Beach wear & Innerwea

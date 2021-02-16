@@ -1,17 +1,20 @@
 ---
-title: "Women Wear"
+title: "Mens Wear"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Long Lasting"
+description : "For Designs"
 
+# product Price
+price: "20.00"
+priceBefore: ""
 
 # Product Short Description
-shortDescription: "All kinds of Ladies wear"
+shortDescription: "T-Shirts, Polos, Tees, Shorts"
 
 #product ID
-productID: "6"
+productID: "3"
 
 # type must be "products"
 type: "products"
@@ -19,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/suryaexport-shudithar-preview.png"
-  - image: "images/products/suryaexport-women-red-tshirt-preview.png"
+  - image: "images/products/suryaexport-plain-white-t-shirt-preview.png"
+  - image: "images/products/suryaexports-tshirt-grey-preview.png"
   - image: "images/products/suryaexport-women-sleeveless-preview.png"
   - image: "images/products/suryaexport-women-tops-preview.png"
 ---
 
-T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes & Innerwear
+T-shirts, Pants, Pyjama Set, Jackets, Shirt, Shorts, Trouser, Jogging suit, Sportswear, Night wear, Beach wear & Innerwear.
