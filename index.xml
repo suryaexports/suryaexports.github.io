@@ -1,109 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hargo | Hugo Ecommerce Site</title>
-    <link>./</link>
-    <description>Recent content on Hargo | Hugo Ecommerce Site</description>
+    <title>Surya Exports | Surya Export Products</title>
+    <link>http://suryaexport.co.in/</link>
+    <description>Recent content on Surya Exports | Surya Export Products</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="http://suryaexport.co.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
-      <link>./blog/post-2/</link>
+      <link>http://suryaexport.co.in/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./blog/post-2/</guid>
+      <guid>http://suryaexport.co.in/blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Kids Wear</title>
+      <link>http://suryaexport.co.in/products/taba-shampoo.1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://suryaexport.co.in/products/taba-shampoo.1/</guid>
+      <description>Bib, Bloomer, Cardigan, Romper, Body Suits, Set items, Sleeping Bag, Baby carrier, Sweaters, Baby Frocks &amp;amp; Innerwear.
+T-Shirts, Jogging Suit, under wear, Trousers, Pyjama Set, Sweat shirts, Shirt, Set items &amp;amp; Innerwear.</description>
+    </item>
+    
+    <item>
+      <title>Kids Wear</title>
+      <link>http://suryaexport.co.in/products/taba-shampoo.2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://suryaexport.co.in/products/taba-shampoo.2/</guid>
+      <description>Bib, Bloomer, Cardigan, Romper, Body Suits, Set items, Sleeping Bag, Baby carrier, Sweaters, Baby Frocks &amp;amp; Innerwear.
+T-Shirts, Jogging Suit, under wear, Trousers, Pyjama Set, Sweat shirts, Shirt, Set items &amp;amp; Innerwear.</description>
+    </item>
+    
+    <item>
+      <title>Kids Wear</title>
+      <link>http://suryaexport.co.in/products/taba-shampoo/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://suryaexport.co.in/products/taba-shampoo/</guid>
+      <description>Bib, Bloomer, Cardigan, Romper, Body Suits, Set items, Sleeping Bag, Baby carrier, Sweaters, Baby Frocks &amp;amp; Innerwear.
+T-Shirts, Jogging Suit, under wear, Trousers, Pyjama Set, Sweat shirts, Shirt, Set items &amp;amp; Innerwear.</description>
     </item>
     
     <item>
       <title>Lower Back Pain? Self-Administered Acupressure Could Help</title>
-      <link>./blog/post-1/</link>
+      <link>http://suryaexport.co.in/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./blog/post-1/</guid>
+      <guid>http://suryaexport.co.in/blog/post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>./products/taba-cream.1/</link>
+      <title>Mens Wear</title>
+      <link>http://suryaexport.co.in/products/taba-cream/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-cream.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/taba-cream/</guid>
+      <description>T-shirts, Pants, Pyjama Set, Jackets, Shirt, Shorts, Trouser, Jogging suit, Sportswear, Night wear, Beach wear &amp;amp; Innerwear.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>./products/taba-cream.2/</link>
+      <title>Mens Wear Polos</title>
+      <link>http://suryaexport.co.in/products/taba-cream.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-cream.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/taba-cream.1/</guid>
+      <description>T-shirts, Pants, Pyjama Set, Jackets, Shirt, Shorts, Trouser, Jogging suit, Sportswear, Night wear, Beach wear &amp;amp; Innerwear</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>./products/taba-cream/</link>
+      <title>Mens Wear T-Shirts</title>
+      <link>http://suryaexport.co.in/products/taba-cream.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-cream/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/taba-cream.2/</guid>
+      <description>T-shirts, Pants, Pyjama Set, Jackets, Shirt, Shorts, Trouser, Jogging suit, Sportswear, Night wear, Beach wear &amp;amp; Innerwea</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>./products/taba-facewash.1/</link>
+      <title>Women Wear</title>
+      <link>http://suryaexport.co.in/products/exports-menswear.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-facewash.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/exports-menswear.1/</guid>
+      <description>T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes &amp;amp; Innerwear</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>./products/taba-facewash.2/</link>
+      <title>Women Wear</title>
+      <link>http://suryaexport.co.in/products/exports-menswear.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-facewash.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/exports-menswear.2/</guid>
+      <description>T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes &amp;amp; Innerwear</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>./products/taba-facewash/</link>
+      <title>Women Wear</title>
+      <link>http://suryaexport.co.in/products/exports-menswear/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-facewash/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/exports-menswear/</guid>
+      <description>T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes &amp;amp; Innerwear</description>
     </item>
     
     <item>
-      <title>Taba Shampoo</title>
-      <link>./products/taba-shampoo.1/</link>
+      <title>Women Wear</title>
+      <link>http://suryaexport.co.in/products/taba-facewash.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-shampoo.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/taba-facewash.1/</guid>
+      <description>T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes &amp;amp; Innerwear</description>
     </item>
     
     <item>
-      <title>Taba Shampoo</title>
-      <link>./products/taba-shampoo.2/</link>
+      <title>Women Wear</title>
+      <link>http://suryaexport.co.in/products/taba-facewash.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-shampoo.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/taba-facewash.2/</guid>
+      <description>T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes &amp;amp; Innerwear</description>
     </item>
     
     <item>
-      <title>Taba Shampoo</title>
-      <link>./products/taba-shampoo/</link>
+      <title>Women Wear</title>
+      <link>http://suryaexport.co.in/products/taba-facewash/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>./products/taba-shampoo/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>http://suryaexport.co.in/products/taba-facewash/</guid>
+      <description>T-Shirts, Tank Top, Pyjama set, Leggings, Jackets, Dress, Skirt, Blouse, Shirt, Night wear, Plus Size Clothes &amp;amp; Innerwear</description>
     </item>
     
   </channel>
