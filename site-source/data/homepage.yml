@@ -1,0 +1,143 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Best Garments Exporter"
+  content : "Surya exports is the best in desigining, manufacturing, exporting and supplying a trendy 
+  range of Knitted / Hosiery Garments located at Tamil Nadu (India), 
+  we have well-maintained infrastructure that helps in undertaking and completing the urgent and huge 
+  orders of our customers within the stipulated time frame"
+  image : "images/banner.png"
+  # button
+  button:
+    enable : true
+    label : "Our Products"
+    link : "products"
+  # demo video
+  video:
+    enable : true
+    videoURL : "images/surya-exports-intro-video.mp4"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "About Us"
+  content : "Ours Products Range Includes Mens Wear, Ladies Wear, Girls Wear, Boys Wear, And Unisex Wear & Kids Wear. We Have Recently Worked on Styles Such As Men’s 
+      Round Neck T-Shirt, Polo-shirts, crew neck t-shirts, Henley T-Shirts, Trousers, Men's Hooded T-Shirt, 
+      Mens - Boxer Shorts, Ladies Night Wears, Ladies Top,
+      Work Wear, Kids Rompers, Kids Confection Wears& Kids Nightwear, etc. 
+
+
+      Designed in line with on-going fashion trends, these garments are widely admired for contemporary designs, vibrant colours, soft texture, comfort fit, skin friendliness and shrinkage resistance.
+      Our offered range is available in various sizes, colours and patterns and can be tailored as per the specifications of clients.
+      
+
+      All the garments are rigorously tested on well-defined parameters to ensure flawless products. 
+
+
+Due to our transparent business dealings, timely delivery schedule and reasonable pricing, we have created esteemed clientele across the globe"
+  image : "images/about.png"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Explore Our Products"
+  content : "Mens Wear, Women Wear, Kids Waer!"
+  image : "images/cta.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "All Products"
+    link : "products"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Our Product Categories"
+  subtitle : "Round Neck T-Shirt, Polo-shirts, crew neck t-shirts, Henley T-Shirts, Trousers, Men's Hooded T-Shirt, 
+      Mens - Boxer Shorts, Ladies Lower Pants, Ladies Night Wears, Ladies Top, Polo Tees, Sports T Shirts,
+      Work Wear, Kids Rompers, Kids Confection Wears& Kids Nightwear."
+  materialItem:
+    # material item loop
+    - title : "Fabric"
+      image : "images/material/material-1.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Design"
+      image : "images/material/material-2.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Pricing"
+      image : "images/material/material-3.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Ontime Delivery"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Advantages of connecting <br> with us"
+  subtitle : "We are bringing in High Quality Garments and delivering on time"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Extreme quality fabric"
+    - listItem : "Excellent design"
+    - listItem : "Affordable pricing"
+    - listItem : "Long Life"
+    - listItem : "Ontime Delivery"
+    - listItem : "Flexible Terms"
+
+
+######################## Promo Video ##########################
+video:
+  enable : false
+  title : "How To Use This Product?"
+  content : "Gentle wash & Iron with low heat"
+  videoThumb : "images/video-thumb.jpg"
+  videoURL : "images/surya-exports-intro-video.mp4"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Products List"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "What People Are Saying <br> About Our Product"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Importer"
+      image : "images/clients/client-1.png" # size 100px*100px
+      designation : "Owner, Importer Band"
+      content : "Thanks to their quality delivery and on time, savings"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Dealer"
+      image : "images/clients/client-1.png" # size 100px*100px
+      designation : "Owner, Wholesale Dealer"
+      content : "Quality & Affordable Products <br> best pricing"
+      rating : "three" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Stockist"
+      image : "images/clients/client-1.png" # size 100px*100px
+      designation : "Multi brand stockist"
+      content : "Wide options to choose from their product offerings"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Importer"
+      image : "images/clients/client-1.png" # size 100px*100px
+      designation : "Owner, Importer Band"
+      content : "Thanks to their quality delivery and on time <br> savings"
+      rating : "five" # rating star, one to five

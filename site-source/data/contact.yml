@@ -1,0 +1,14 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "Our Address"
+    content : "Please email or reach us for your questions and feedback"
+    # other information comes from "config.toml"
+
+  
+
+####################### google map ########################
+map:
+  enable: true
